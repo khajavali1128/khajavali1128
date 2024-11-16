@@ -11,7 +11,7 @@
 Hi, I'm Pathan Khaja Vali, feel free to call me KV. I'm a Web developer from New York, USA.
 
 <details open>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top programming languages</summary>
 
 | Rank |   Languages   |
 |-----:|---------------|
