@@ -15,7 +15,7 @@ Hi, I'm Pathan Khaja Vali, feel free to call me KV. I'm a Web developer from New
 </details>
 
 ---
-> We can collaborate and contribute to projects together. Let's connect.
+> We can collaborate and contribute to many projects together. Let's connect.
 
 – KV
 
