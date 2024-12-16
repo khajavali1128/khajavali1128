@@ -17,6 +17,6 @@ Hi, I'm Pathan Khaja Vali, feel free to call me KV. I'm a Web developer from New
 </details>
 
 ---
-> We can collaborate and contribute to many projects together. Let's connect.
+> Let's connect on [LinkedIn](https://www.linkedin.com/in/khaja-valli-pathan/)
 
 – KV
