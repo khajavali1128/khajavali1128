@@ -13,7 +13,6 @@ Hi, I'm Pathan Khaja Vali, feel free to call me KV. I'm a Web developer from New
 |     2|      Java     |
 |     3|  JavaScript   |
 |     4|      SQL      |
-|     3|  TypeScript   |
 </details>
 
 ---
