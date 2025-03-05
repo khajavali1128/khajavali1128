@@ -1,21 +1,16 @@
-## About me
+## Hi there! 👋 I'm Khaja Valli Pathan
 
-<!-- TO DO: add more details about me later -->
+💻 Passionate about building scalable applications, AI solutions, and backend systems.  
+🚀 Always exploring new technologies, optimizing workflows, and enhancing system efficiency.  
+🎯 Strong problem-solving skills with a deep interest in distributed systems and cloud computing.  
 
-Hi, I'm Pathan Khaja Vali, feel free to call me KV. I'm a Web developer from New York, USA.
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, Java, SQL, NoSQL  
+- **Frameworks & Tools:** React, Node.js, Flask, Spring, Selenium, GraphQL  
+- **Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes, CI/CD  
+- **Databases:** MySQL, MongoDB, PostgreSQL, Neo4j  
 
-<details open>
-<summary>My top programming languages</summary>
+### 🌎 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/pathan1128/) | [LeetCode](https://leetcode.com/u/khajavali1128/)  
 
-| Rank |   Languages   |
-|-----:|---------------|
-|     1|      Python   |
-|     2|      Java     |
-|     3|  JavaScript   |
-|     4|      SQL      |
-</details>
-
----
-> Let's connect on [LinkedIn](https://www.linkedin.com/in/khaja-valli-pathan/)
-
-– KV
+🚀 Always open to collaborating on exciting projects!
